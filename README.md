@@ -82,6 +82,10 @@ La commande locate permet de trouver un fichier dans le système de base de donn
 > locate -i école*note
 
 
+### commande "passwd"
+ se mettre en sudo pour changer le mdp d'un user
+ > sudo passwd nomuser
+ 
 
 
 
